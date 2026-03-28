@@ -47,17 +47,19 @@ https://kullaniciadiniz.github.io/gdt-space-site
 
 ---
 
-## 📄 Proje Dosyaları
-`files/` klasörü içinde yer almaktadır.
+
 
 ---
 
 ## 👨‍🚀 Takım
 TEAM-KARAAĞAÇ
 
-- İsim Soyisim
-- İsim Soyisim
-- İsim Soyisim
+-Güven YETER
+-Ata Çınar SALMAN
+-Toprak KIRAN
+-Duru ARSLAN
+-Ecrin BANKİR
+
 
 ---
 
