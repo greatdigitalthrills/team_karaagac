@@ -1,4 +1,3 @@
-# team_karaagac
 # 🚀 AETHER EYE
 
 TEAM-KARAAĞAÇ | TUA Astro Hackathon
