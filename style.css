@@ -1,0 +1,70 @@
+body {
+    margin: 0;
+    font-family: Arial;
+    background: black;
+    color: white;
+    text-align: center;
+}
+
+/* yıldız efekti */
+body::after {
+    content: "";
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    background: url("https://www.transparenttextures.com/patterns/stardust.png");
+    opacity: 0.3;
+    z-index: -1;
+}
+
+header {
+    padding: 50px;
+}
+
+h1 {
+    color: #00ccff;
+    font-size: 50px;
+}
+
+.card {
+    background: rgba(255,255,255,0.05);
+    margin: 20px auto;
+    padding: 20px;
+    width: 80%;
+    border-radius: 15px;
+    box-shadow: 0 0 25px rgba(0,204,255,0.3);
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+.members {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.member {
+    background: rgba(255,255,255,0.08);
+    margin: 10px;
+    padding: 15px;
+    width: 200px;
+    border-radius: 10px;
+}
+
+.btn {
+    display: inline-block;
+    margin: 10px;
+    padding: 12px 20px;
+    background: #00ccff;
+    color: black;
+    text-decoration: none;
+    border-radius: 10px;
+    font-weight: bold;
+}
+
+.btn:hover {
+    background: #0099cc;
+}
